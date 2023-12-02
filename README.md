@@ -15,8 +15,8 @@
 ![linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![macOs](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-<div>
-<style>
+
+###<style>
     .guts{
         border: px solid #ccc;
             padding: 1px;
@@ -30,7 +30,4 @@
 </style>
 <div class='guts'>
 <img clas ='gust2' src=https://pbs.twimg.com/media/FL5HOXTXMAIHFcG?format=jpg&name=small>
-</div>
-</style>
-</style>
 </div>
