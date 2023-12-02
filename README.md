@@ -21,7 +21,7 @@
             text-align: center;
     }
     .guts2{
-        width: 100%; /* Ajusta a largura da imagem para ocupar 100% da largura da div */
+        width: 100%; 
             height: auto;
     }
 
