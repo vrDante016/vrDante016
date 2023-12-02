@@ -25,7 +25,7 @@
             height: auto;
     }
 
-#</style>
-<div class='guts'>
-<img clas ='gust2' src=https://pbs.twimg.com/media/FL5HOXTXMAIHFcG?format=jpg&name=small>
-</div>
+# </style>
+# <div class='guts'>
+# <img clas ='gust2' src=https://pbs.twimg.com/media/FL5HOXTXMAIHFcG?format=jpg&name=small>
+# </div>
