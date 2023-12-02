@@ -14,3 +14,18 @@
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![macOs](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+<style>
+    .guts{
+        border: px solid #ccc;
+            padding: 1px;
+            text-align: center;
+    }
+    .guts2{
+        width: 100%; /* Ajusta a largura da imagem para ocupar 100% da largura da div */
+            height: auto;
+    }
+
+</style>
+<div class='guts'>
+<img clas ='gust2' src=https://pbs.twimg.com/media/FL5HOXTXMAIHFcG?format=jpg&name=small>
+</div>
